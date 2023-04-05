@@ -1,7 +1,7 @@
 # C# PROJECT TWO
 Build Project From C# For Test. "Medidor De Altura".
 
-Ejecut:
+Ejecute:
 
 1-Download Dotnet Framework
 2-Download Repository
