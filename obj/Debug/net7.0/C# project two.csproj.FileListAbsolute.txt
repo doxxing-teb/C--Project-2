@@ -1,0 +1,15 @@
+/home/kali/Desktop/C# project two/bin/Debug/net7.0/C# project two
+/home/kali/Desktop/C# project two/bin/Debug/net7.0/C# project two.deps.json
+/home/kali/Desktop/C# project two/bin/Debug/net7.0/C# project two.runtimeconfig.json
+/home/kali/Desktop/C# project two/bin/Debug/net7.0/C# project two.dll
+/home/kali/Desktop/C# project two/bin/Debug/net7.0/C# project two.pdb
+/home/kali/Desktop/C# project two/obj/Debug/net7.0/C# project two.csproj.AssemblyReference.cache
+/home/kali/Desktop/C# project two/obj/Debug/net7.0/C# project two.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Desktop/C# project two/obj/Debug/net7.0/C# project two.AssemblyInfoInputs.cache
+/home/kali/Desktop/C# project two/obj/Debug/net7.0/C# project two.AssemblyInfo.cs
+/home/kali/Desktop/C# project two/obj/Debug/net7.0/C# project two.csproj.CoreCompileInputs.cache
+/home/kali/Desktop/C# project two/obj/Debug/net7.0/C# project two.dll
+/home/kali/Desktop/C# project two/obj/Debug/net7.0/refint/C# project two.dll
+/home/kali/Desktop/C# project two/obj/Debug/net7.0/C# project two.pdb
+/home/kali/Desktop/C# project two/obj/Debug/net7.0/C# project two.genruntimeconfig.cache
+/home/kali/Desktop/C# project two/obj/Debug/net7.0/ref/C# project two.dll
